@@ -1,2 +1,2 @@
 # jubilant-coding-portfolio
-Examples of my work in cpp, javascript, stata and R
+Examples of my work in python, cpp, java, javascript, stata and R
