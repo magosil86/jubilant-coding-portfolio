@@ -1,2 +1,2 @@
-# jubilant-coding-portfolio
+# magosil86-coding-portfolio
 Examples of my work in python, cpp, java, javascript, stata and R
